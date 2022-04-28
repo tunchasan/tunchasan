@@ -19,6 +19,12 @@
 <a href="https://www.youtube.com/channel/UCwX_MY1qJwZwEh9z1I80uzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasan tunc" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Publications:</h3>
+<p align="left">
+<a href="https://store.steampowered.com/app/1174200/Lands_of_Pharaoh_Episode_1/" target="blank"><img align="center" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174200/header.jpg?t=1606052898" alt="hasantunc" height="215" width="460" /></a>
+    <a href="https://imafirehazard.itch.io/cube-runner" target="blank"><img align="center" src="https://img.itch.zone/aW1nLzg2NTUzNjQucG5n/original/QxyaAw.png" alt="hasantunc" height="215" width="270" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
