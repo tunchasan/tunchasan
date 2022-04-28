@@ -44,4 +44,4 @@
     <a href="https://imafirehazard.itch.io/cube-runner" target="blank"><img align="center" src="https://img.itch.zone/aW1nLzg2NTUzNjQucG5n/original/QxyaAw.png" alt="hasantunc" height="215" width="270" /></a>
 </p>
 
-🕹️ Check my <a href>[LinkedIn](https://linkedin.com/in/hasantunc) profile to see more publications
+🕹️ Check my <a href>[LinkedIn](https://linkedin.com/in/hasantunc) profile to see more publication
