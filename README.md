@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">Publications:</h3>
-
+📌 Click each images to visit project details.
 <h4 align="left">🌟 Lands of Pharaoh on Steam</h4>
 <a href="https://store.steampowered.com/app/1174200/Lands_of_Pharaoh_Episode_1/" target="blank"><img align="center" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174200/header.jpg?t=1606052898" alt="hasantunc" width="810" /></a>
 
