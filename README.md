@@ -39,9 +39,17 @@
 </p>
 
 <h3 align="left">Publications:</h3>
-<p align="left">
-<a href="https://store.steampowered.com/app/1174200/Lands_of_Pharaoh_Episode_1/" target="blank"><img align="center" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174200/header.jpg?t=1606052898" alt="hasantunc" height="215" width="460" /></a>
-    <a href="https://imafirehazard.itch.io/cube-runner" target="blank"><img align="center" src="https://img.itch.zone/aW1nLzg2NTUzNjQucG5n/original/QxyaAw.png" alt="hasantunc" height="215" width="270" /></a>
-</p>
 
-🕹️ Check my <a href>[LinkedIn](https://linkedin.com/in/hasantunc) profile to see more publication
+<h4 align="left">🌟 Lands of Pharaoh on Steam</h4>
+<a href="https://store.steampowered.com/app/1174200/Lands_of_Pharaoh_Episode_1/" target="blank"><img align="center" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174200/header.jpg?t=1606052898" alt="hasantunc" width="810" /></a>
+
+<h4 align="left">🌟 Cube Runner on itch.io</h4>
+<a href="https://imafirehazard.itch.io/cube-runner" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39636292/179392072-69f61326-6a3c-4090-937e-1313e6490bfd.png" alt="hasantunc" width="810" /></a>
+
+<h4 align="left">🌟 Blob Character Package on GitHub</h4>
+<a href="https://github.com/tunchasan/Blob-Character-Creator" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39636292/179392207-a666503c-a23f-499a-83fe-076851d81d30.png" alt="hasantunc" width="810" /></a>
+
+<h4 align="left">🌟 SOLID Factory on GitHub</h4>
+<a href="https://github.com/tunchasan/SOLID-Factory" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39636292/179392400-8c5a43a7-d447-4d1b-9170-b950e4fc7e2e.jpg" alt="hasantunc" width="810" /></a>
+<br></br>
+<h4>🕹️ Check my <a href="https://www.linkedin.com/in/hasantunc/" target="blank"> LinkedIn </a> profile to see more publication. </h4>
