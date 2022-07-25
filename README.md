@@ -44,9 +44,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🌟 Cube Runner on itch.io</h4>
-<a href="https://store.steampowered.com/app/1174200/Lands_of_Pharaoh_Episode_1/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/180702417-77149ae9-2e5e-4038-8cd0-2ab3a0a3e31f.png" alt="hasantunc" width="405" /></a>
+<a href="https://store.steampowered.com/app/1174200/Lands_of_Pharaoh_Episode_1/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/180702417-77149ae9-2e5e-4038-8cd0-2ab3a0a3e31f.png" alt="hasantunc" width="400" /></a>
 
-<a href="https://imafirehazard.itch.io/cube-runner" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/180701250-b975dd6e-1167-4153-88cc-d7be6ba479d0.png" alt="hasantunc" width="405" /></a>
+<a href="https://imafirehazard.itch.io/cube-runner" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/180701250-b975dd6e-1167-4153-88cc-d7be6ba479d0.png" alt="hasantunc" width="400" /></a>
 
 <br></br><br></br><br></br><br></br>
 
@@ -55,8 +55,8 @@
 &nbsp;&nbsp;
 🌟 SOLID Factory on GitHub
 </h4>
-<a href="https://github.com/tunchasan/Blob-Character-Creator" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/179392207-a666503c-a23f-499a-83fe-076851d81d30.png" alt="hasantunc" width="405" /></a>
+<a href="https://github.com/tunchasan/Blob-Character-Creator" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/179392207-a666503c-a23f-499a-83fe-076851d81d30.png" alt="hasantunc" width="400" /></a>
 
-<a href="https://github.com/tunchasan/SOLID-Factory" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/179392400-8c5a43a7-d447-4d1b-9170-b950e4fc7e2e.jpg" alt="hasantunc" width="405" /></a>
+<a href="https://github.com/tunchasan/SOLID-Factory" target="blank"><img align="left" src="https://user-images.githubusercontent.com/39636292/179392400-8c5a43a7-d447-4d1b-9170-b950e4fc7e2e.jpg" alt="hasantunc" width="400" /></a>
 <br></br><br></br><br></br><br></br><br></br>
 <h4>🕹️ Check my <a href="https://www.linkedin.com/in/hasantunc/" target="blank"> LinkedIn </a> profile to see more publication. </h4>
