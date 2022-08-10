@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasantunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasantunc" height="30" width="40" /></a>
-<a href="https://instagram.com/tunnchasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tunnchasan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCwX_MY1qJwZwEh9z1I80uzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasan tunc" height="30" width="40" /></a>
 <a href="https://hasan-tunc.itch.io" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39636292/165754901-b574a8b3-58d4-4c10-9a08-982ae089ecc2.png" alt="hasan tunc" height="40" width="40" /></a>
 </p>
