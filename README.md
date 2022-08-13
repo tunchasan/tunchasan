@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hasantunc.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume_Hasan_Tunc_EN](https://github.com/tunchasan/tunchasan/files/9184326/Resume_Hasan_Tunc_EN.pdf)
+- 📄 Know about my experiences [Resume_Hasan_Tunc_EN](https://github.com/tunchasan/tunchasan/files/9331829/Resume_Hasan_Tunc_EN.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
