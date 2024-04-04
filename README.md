@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate game developer & software engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **DOTS**
+- 🔭 I’m currently working on **Unity DOTS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tunchasan](https://github.com/tunchasan)
 
